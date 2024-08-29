@@ -1,0 +1,1 @@
+# Combining two api's (news api and openai api) to get the news and summerize the news with openai request
