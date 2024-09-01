@@ -6,7 +6,7 @@ This Repository consists of Python in 100 days Course and includes tasks that I 
 
 ## Acknowledgements
 
-- I would like to thank all of my teachers, colleagues, friends, Replit, tutoe who helped me in completing all of these python tasks.
+- I would like to thank all of my teachers, colleagues, friends, tutor, learning resources provider who helped me in completing all of these python tasks.
 - I would also like to thank all the awesome coders who have contributed different things about python in the internet from where I took guidance.
 - Thank you to all those who helped me directly or indirectly.  
 
