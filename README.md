@@ -1,7 +1,7 @@
-## Python In 100 Days - Replit Course
+## Python In 100 Days
 # 
 
-This Repository consists of Python in 100 days Course and includes tasks that I have learned/practiced from Replit's Course. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Python in 100 days🌾!!
+This Repository consists of Python in 100 days Course and includes tasks that I have learned/practiced for different python basics, libraries, OOPs. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Python in 100 days🌾!!
 
 
 ## Acknowledgements
@@ -19,12 +19,12 @@ This Repository consists of Python in 100 days Course and includes tasks that I 
 
 #### What does this repository consist of?
 
-This repo is full of different kinds of tasks/practices that I have learned/practiced from Replit Course.
+This repo is full of different kinds of tasks/practices that I have learned/practiced of Python either basic programming, OOPs or Libraries and many more of Python.
 
 
 #### What programming language is used for Project?
 
-The project is in Python only and are all done in replit.
+The project is in Python only.
 
 ## Feedback
 
