@@ -1,7 +1,7 @@
 ## Python In 100 Days
 # 
 
-This Repository consists of Python in 100 days Course and includes tasks that I have learned/practiced for different python basics, libraries, OOPs. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Python in 100 days🌾!!
+This Repository consists of Python in 100 days Course and includes tasks that I have learned/practiced for different python basics, OOPs and others. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Python in 100 days🌾!!
 
 
 ## Acknowledgements
@@ -19,7 +19,7 @@ This Repository consists of Python in 100 days Course and includes tasks that I 
 
 #### What does this repository consist of?
 
-This repo is full of different kinds of tasks/practices that I have learned/practiced of Python either basic programming, OOPs or Libraries and many more of Python.
+This repo is full of different kinds of tasks/practices that I have learned/practiced of Python basic programming, OOPs or many more of Python.
 
 
 #### What programming language is used for Project?
@@ -33,7 +33,7 @@ If you have any feedback, please reach out to me at nepalashim90@gmail.com
 
 ## 🚀 About Me
 # Hi, I'm Ashim! 👋
-I'm a Student, Learner, Programmer who is learning and working in AI, Python & Java as my major!
+I'm a Student, Learner, Programmer who is learning and working in AI, Python as my major!
 
 
 
