@@ -1,5 +1,4 @@
 ## Python In 100 Days
-# 
 
 This Repository consists of Python in 100 days Course and includes tasks that I have learned/practiced for different python basics, OOPs and others. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Python in 100 days🌾!!
 
@@ -51,4 +50,4 @@ Ashim Nepal [AI]
 
 ## Support
 
-For support, email at nepalashim90@gmail.com
+For support and any other queries, email at nepalashim90@gmail.com
