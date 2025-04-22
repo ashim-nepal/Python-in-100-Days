@@ -23,7 +23,7 @@ This repo is full of different kinds of tasks/practices that I have learned/prac
 
 #### What programming language is used for Project?
 
-The project is in Python only.
+The project is in Python only...
 
 ## Feedback
 
